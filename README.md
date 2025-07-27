@@ -14,9 +14,9 @@ Welcome to a beginner-friendly ToDo List web app built entirely using **HTML** a
 
 📁 to-do-dom
 
-├── toDoDom.html # Main HTML file
+├── index.html # Main HTML file
 
-├── toDoDomApp.js # JavaScript logic for DOM operations
+├── app.js # JavaScript logic for DOM operations
 
 └── README.md # You're reading it!
 
