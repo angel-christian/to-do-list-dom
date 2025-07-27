@@ -15,8 +15,6 @@ btn.addEventListener("click",function(){
     userInput.value = null ;
     
     delBtn.addEventListener("click",function(event){
-        // console.log(event.target)
-        // console.dir(event.target)
         ul.removeChild(li);
         console.log("Task Removed");
     })
