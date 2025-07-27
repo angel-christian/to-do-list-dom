@@ -1,4 +1,4 @@
-# 📝 ToDo List App – DOM Manipulation with Vanilla JavaScript
+# 📝 ToDo List – DOM Manipulation with Vanilla JavaScript
 
 Welcome to a beginner-friendly ToDo List web app built entirely using **HTML** and **Vanilla JavaScript**. This project is designed to demonstrate basic **DOM manipulation**, **event handling**, and dynamic element creation in JavaScript.
 
@@ -12,9 +12,12 @@ Welcome to a beginner-friendly ToDo List web app built entirely using **HTML** a
 
 ## 📂 Project Structure
 
-📁 todo-dom-app/
+📁 todo-dom/
+
 ├── toDoDom.html # Main HTML file
+
 ├── toDoDomApp.js # JavaScript logic for DOM operations
+
 └── README.md # You're reading it!
 
 ---
