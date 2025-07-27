@@ -12,7 +12,7 @@ Welcome to a beginner-friendly ToDo List web app built entirely using **HTML** a
 
 ## 📂 Project Structure
 
-📁 todo-dom/
+📁 to-do-dom
 
 ├── toDoDom.html # Main HTML file
 
